@@ -417,10 +417,6 @@ main {
   margin-top: 0.5vw;
 }
 
-.chat2 {
-  padding: 10px;
-}
-
 .chat2-logo-name-time-text {
   display: flex;
   gap: 0.5vw;
@@ -506,11 +502,9 @@ main {
 
 .chat4 {
   width: 100%;
-  padding: 8px;
 }
 
 .chat5 {
-  padding: 8px;
   width: 100%;
 }
 
